@@ -83,12 +83,12 @@
             <version>1.1</version>
             <scope>provided</scope>
         </dependency>
-        <dependency>
+        <!-- dependency>
             <groupId>com.tinkerpop.blueprints</groupId>
             <artifactId>blueprints-orient-graph</artifactId>
             <version>1.1</version>
             <scope>provided</scope>
-        </dependency>
+        </dependency -->
         <dependency>
             <groupId>com.tinkerpop.blueprints</groupId>
             <artifactId>blueprints-dex-graph</artifactId>
